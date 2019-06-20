@@ -1,0 +1,134 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Layout Empresa X</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../folhaEstilo.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table border="0" cellpadding="0" cellspacing="0" id="tabelaPrincipal">
+  <tr>
+    <td><table border="0" cellpadding="0" cellspacing="0" id="tabelaTopo">
+      <tr>
+        <td class="tabelaTopoCelEsquerda">&nbsp;</td>
+        <td width="58"><img src="../imagens/curvaMenu.jpg" width="58" height="41" /></td>
+        <td class="tabelaTopoCelDireita">Principal   &nbsp;&nbsp;|&nbsp;&nbsp;  Quem Somos   &nbsp;&nbsp;|&nbsp;&nbsp;   Nossos Produtos   &nbsp;&nbsp;|&nbsp;&nbsp;   Fale Conosco</td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><img src="../imagens/cabecalhoGrande.jpg" width="776" height="178" /></td>
+  </tr>
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="240" valign="top"><table border="0" cellpadding="0" cellspacing="0" id="tabelaMenu">
+
+          <tr>
+            <td><div class="divMenuTopo" id="divTopoMenu">
+              <table border="0" cellpadding="0" cellspacing="0" class="tituloMenuTopo">
+                <tr>
+                  <td class="tituloMenuCantos"><img src="../imagens/tituMenuEsquerdo.jpg" width="7" height="42" /></td>
+                  <td class="tituloMenuCentro">Eletrodom&eacute;sticos</td>
+                  <td class="tituloMenuCantos"><img src="../imagens/tituMenuDireito.jpg" width="7" height="42" /></td>
+                </tr>
+              </table>
+            </div>
+            <div class="divMenuItens">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td class="celulaMarcadorMenu"><img src="../imagens/setaMenu.jpg" width="8" height="11" /></td>
+                  <td class="celulaMenuTexto">Liquidificador</td>
+                </tr>
+              </table>
+            </div>
+			<div class="divMenuItens">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td class="celulaMarcadorMenu"><img src="../imagens/setaMenu.jpg" width="8" height="11" /></td>
+                  <td class="celulaMenuTexto">Batedeira</td>
+                </tr>
+              </table>
+            </div>
+			<div class="divMenuItens">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td class="celulaMarcadorMenu"><img src="../imagens/setaMenu.jpg" width="8" height="11" /></td>
+                  <td class="celulaMenuTexto">Torradeira</td>
+                </tr>
+              </table>
+            </div>
+			<div class="divMenuItens">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td class="celulaMarcadorMenu"><img src="../imagens/setaMenu.jpg" width="8" height="11" /></td>
+                  <td class="celulaMenuTexto">Microondas</td>
+                </tr>
+              </table>
+            </div>			</td>
+          </tr>
+        </table>
+          <table border="0" cellpadding="0" cellspacing="0" id="tabelaMenu">
+            <tr>
+              <td><div class="divMenuTopo" id="div">
+                  <table border="0" cellpadding="0" cellspacing="0" class="tituloMenuTopo">
+                    <tr>
+                      <td class="tituloMenuCantos"><img src="../imagens/tituMenuEsquerdo.jpg" width="7" height="42" /></td>
+                      <td class="tituloMenuCentro">Inform&aacute;tica</td>
+                      <td class="tituloMenuCantos"><img src="../imagens/tituMenuDireito.jpg" width="7" height="42" /></td>
+                    </tr>
+                  </table>
+              </div>
+                  <div class="divMenuItens">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="celulaMarcadorMenu"><img src="../imagens/setaMenu.jpg" width="8" height="11" /></td>
+                        <td class="celulaMenuTexto">Notebooks</td>
+                      </tr>
+                    </table>
+                  </div>
+                <div class="divMenuItens">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="celulaMarcadorMenu"><img src="../imagens/setaMenu.jpg" width="8" height="11" /></td>
+                        <td class="celulaMenuTexto">Computadores</td>
+                      </tr>
+                    </table>
+                </div>
+                <div class="divMenuItens">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="celulaMarcadorMenu"><img src="../imagens/setaMenu.jpg" width="8" height="11" /></td>
+                        <td class="celulaMenuTexto">Perif&eacute;ricos</td>
+                      </tr>
+                    </table>
+                </div>
+                <div class="divMenuItens">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td class="celulaMarcadorMenu"><img src="../imagens/setaMenu.jpg" width="8" height="11" /></td>
+                        <td class="celulaMenuTexto">Impressoras</td>
+                      </tr>
+                    </table>
+                </div></td>
+            </tr>
+          </table></td>
+        <td valign="top"><!-- TemplateBeginEditable name="Conteudo" --><!-- TemplateEndEditable --></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td><table border="0" cellpadding="0" cellspacing="0" id="tabelaRodape">
+      <tr>
+        <td>Todos os Direitos reservados a DevMedia e Portal Kameh&aacute;!</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>
